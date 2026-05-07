@@ -1,2 +1,2 @@
-# Doceria Kaua Guilherme
+# Game Master
 Atividade 4

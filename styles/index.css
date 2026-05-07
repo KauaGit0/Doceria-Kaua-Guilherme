@@ -1,0 +1,46 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+    background-size: cover;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrOUO5nWFpKA1KNG1SU9_4d_2IYWRh_syIWMN6vxaRyxaTTxnWEkZhqUWsPaNu64kk4qjCA6y-DxMcFeLWgkEe_f1k2zDgIjE_x9aM2lI&s=10);
+}
+
+.jogo {
+    width: 500px;
+    height: 150px;
+    background-color: white;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 10px 10px 10px gray;
+}
+
+.Pfundo {
+    width: 1000px;
+    height: 500px;
+    background-color: aliceblue;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.descricao {
+    height: 30px;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+}
+
+main {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
